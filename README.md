@@ -1,8 +1,8 @@
 # generate_sphere_reflection
-Implementation of the analytical solution for the scattering from a  two layer spherical shell
+Implementation of an analytical solution for the scattering from a  two layer spherical shell
 
 The code calculates analytical solution for backscattering of a pulse. 
-It allows generate syntetic data for a wideband pulse scattering from a 2 layer spherical shell.
+It allows generate syntetic data for a wideband pulse scattering from a 2 layers spherical shell.
 The example code is located in Example.m - change the parameters for your sphere and run it.
 The code depends on all the other functions.
 
